@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://refee.trade">
-    <img src="https://refee.trade/logo.webp" alt="Re:Fee - Bybit Fee Rebate Platform" width="120" height="120">
+    <img src="logo.png" alt="Re:Fee - Bybit Fee Rebate Platform" width="120" height="120">
   </a>
   <h1>Re:Fee — Reduce Your Bybit Trading Fees by 20%</h1>
   <p><strong>The transparent, automated Bybit cashback platform for serious traders.</strong></p>
