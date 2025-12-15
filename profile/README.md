@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://refee.trade">
-    <img src="https://refee.trade/logo.webp" alt="Re:Fee Logo" width="80">
+    <img src="./logo.png" alt="Re:Fee Logo" width="80">
   </a>
   <h2>Re:Fee — Bybit Trading Fee Cashback</h2>
   <p><strong>Bybit Referral Code: REFEE</strong> — Get 20% back on every trade. Automatic. Transparent. Forever.</p>
